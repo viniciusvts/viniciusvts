@@ -1,6 +1,10 @@
-<h1>Hi there <img src="./assets/hi.gif" height="30px">!</h1>
+<p><img src="./assets/hi.gif" height="15px"> Hi there!</p>
 
-I am Vinicius de Santana, developing since 2016 with ❤️ and  
+## I'm Vinicius de Santana
+**Full Stack Developer | Software Architecture Specialist | Open Source Contributor.**
+
+Developing since 2016 with ❤️ and:
+
 <p align="center">
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
@@ -23,33 +27,20 @@ I am Vinicius de Santana, developing since 2016 with ❤️ and
     <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat" />
 </p>
 
-## About Coding
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=viniciusvts&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
-</p>
-
-Full Stack Developer.
-
-Open Source Contributor.
+---
 
 👈 My profile and social!
 
 👇 My repositories and contributions!
 
+## Building
 
+- **[String Morpher](https://github.com/SSolWEB/string-morpher)** [![GitHub stars](https://img.shields.io/github/stars/SSolWEB/string-morpher?style=flat&color=gold)](https://github.com/SSolWEB/string-morpher) - A powerful php string manipulation library designed for developers who need efficient and intuitive solutions for modifying and masking strings.
 
-<!--
-**viniciusvts/viniciusvts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contributing to
 
-Here are some ideas to get you started:
+- **[Bootstrap](https://github.com/twbs/bootstrap)** [![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap?style=flat&color=gold)](https://github.com/twbs/bootstrap) - Fixed blockquote styling mismatch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[MDN](https://github.com/mdn/translated-content)** [![GitHub stars](https://img.shields.io/github/stars/mdn/translated-content?style=flat&color=gold)](https://github.com/mdn/translated-content) - Maintenance and removal of dead links across ES, FR, PT-BR, and ZH locales.
+
+- **[Laravel Spark](https://github.com/laravel/spark-next-docs)** [![GitHub stars](https://img.shields.io/github/stars/laravel/spark-next-docs?style=flat&color=gold)](https://github.com/laravel/spark-next-docs) - Improved legal and compliance sections.
