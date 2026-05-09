@@ -1,7 +1,7 @@
 <p><img src="./assets/hi.gif" height="15px"> Hi there!</p>
 
 ## I'm Vinicius de Santana
-**Full Stack Developer | Software Architecture Specialist | Open Source Contributor.**
+**Software Architect | Full Stack Developer | Open Source Contributor.**
 
 Developing since 2016 with ❤️ and:
 
