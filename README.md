@@ -36,6 +36,7 @@ Developing since 2016 with ❤️ and:
 ## Building
 
 - **[String Morpher](https://github.com/SSolWEB/string-morpher)** [![GitHub stars](https://img.shields.io/github/stars/SSolWEB/string-morpher?style=flat&color=gold)](https://github.com/SSolWEB/string-morpher) - A powerful php string manipulation library designed for developers who need efficient and intuitive solutions for modifying and masking strings.
+- **[Laravel BR Helper](https://github.com/SSolWEB/laravel-br-helper)** [![GitHub stars](https://img.shields.io/github/stars/SSolWEB/laravel-br-helper?style=flat&color=gold)](https://github.com/SSolWEB/laravel-br-helper) - Laravel Br Helper é uma biblioteca para auxiliar desenvolvedores a trabalhar com dados brasileiros de forma rápida e fácil.
 
 ## Contributing to
 
