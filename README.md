@@ -27,10 +27,10 @@ More in [blog](https://viniciusvts.github.io/blog/)
 - **[Laravel Spark](https://github.com/laravel/spark-next-docs)** [![GitHub stars](https://img.shields.io/github/stars/laravel/spark-next-docs?style=flat&color=gold)](https://github.com/laravel/spark-next-docs) - Improved legal and compliance sections.
 
 ### Stack
+|  |  |
+| --- | --- |
+| backend | PHP · Laravel · Node.js |
+| frontend | Vue.js · JavaScript · HTML · CSS · Sass |
+| data     | PostgreSQL · MySQL · MariaDB · Oracle |
+| devops   | Git · GitHub Actions · Jenkins · Linux · NGINX |
 
-<div style="display: grid; grid-template-columns: 100px auto; gap: 10px; padding:10px; border-radius:8px;">
-  <strong>backend</strong><div>PHP · Laravel · Node.js</div>
-  <strong>frontend</strong><div>Vue.js · JavaScript · HTML · CSS · Sass</div>
-  <strong>data</strong><div>PostgreSQL · MySQL · MariaDB · Oracle</div>
-  <strong>devops</strong><div>Git · GitHub Actions · Jenkins · Linux · NGINX</div>
-</div>
