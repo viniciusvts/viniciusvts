@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="170" viewBox="0 0 830 170" role="img" aria-labelledby="title desc">
+  <title id="title">Tech stack</title>
+  <desc id="desc">Backend: PHP, Laravel, Node.js. Frontend: Vue.js, JavaScript, HTML, CSS, Sass. Data: PostgreSQL, MySQL, MariaDB, Oracle. DevOps: Git, GitHub Actions, Jenkins, Linux, NGINX.</desc>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .k { fill: #4FD1C5; }
+    .v { fill: #E3F1EF; }
+  </style>
+  <rect x="1" y="1" width="828" height="168" rx="12" fill="#012929" stroke="#0B5555" stroke-width="2"/>
+  <text x="32" y="46" class="m k">backend</text>  <text x="170" y="46" class="m v">PHP · Laravel · Node.js</text>
+  <text x="32" y="78" class="m k">frontend</text> <text x="170" y="78" class="m v">Vue.js · JavaScript · HTML · CSS · Sass</text>
+  <text x="32" y="110" class="m k">data</text>    <text x="170" y="110" class="m v">PostgreSQL · MySQL · MariaDB · Oracle</text>
+  <text x="32" y="142" class="m k">devops</text>  <text x="170" y="142" class="m v">Git · GitHub Actions · Jenkins · Linux · NGINX</text>
+</svg>

@@ -1,47 +1,69 @@
-<p><img src="./assets/hi.gif" height="15px"> Hi there!</p>
-
-## I'm Vinicius de Santana
+## Who am i
+### Vinicius de Santana
 **Software Architect | Full Stack Developer | Open Source Contributor.**
-
-Developing since 2016 with ❤️ and:
-
 <p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=csswizardry&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
-    <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat" />
+  <img src="./assets/hero.svg" width="830" alt="Vinicius de Santana — Software Architect, Full Stack Developer and Open Source Contributor. PHP, Laravel and Vue since 2016.">
 </p>
 
----
+<p align="center">
+  <img src="./assets/header-libs.svg" width="830" alt="~/libs — open-source PHP and Laravel packages">
+</p>
 
-👈 My profile and social!
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SSolWEB/string-morpher">
+        <img src="./assets/card-string-morpher.svg" width="408" alt="String Morpher: fluent string manipulation and masking for PHP. composer require ssolweb/string-morpher">
+      </a><br>
+      <a href="https://ssolweb.github.io/string-morpher/"><img src="https://img.shields.io/badge/Docs-012929?style=for-the-badge&labelColor=023B3B&logo=readthedocs&logoColor=4FD1C5" height="30" alt="Docs"></a>
+      <a href="https://github.com/SSolWEB/string-morpher"><img src="https://img.shields.io/github/stars/SSolWEB/string-morpher?style=for-the-badge&color=012929&labelColor=023B3B&logo=github&logoColor=4FD1C5" height="30" alt="GitHub stars"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SSolWEB/laravel-br-helper">
+        <img src="./assets/card-laravel-br-helper.svg" width="408" alt="Laravel BR Helper: Laravel casts and validation for Brazilian data (CPF, CNPJ, phone). composer require ssolweb/laravel-br-helper">
+      </a><br>
+      <a href="https://packagist.org/packages/ssolweb/laravel-br-helper"><img src="https://img.shields.io/badge/Packagist-012929?style=for-the-badge&labelColor=023B3B&logo=packagist&logoColor=4FD1C5" height="30" alt="Packagist"></a>
+      <a href="https://github.com/SSolWEB/laravel-br-helper"><img src="https://img.shields.io/github/stars/SSolWEB/laravel-br-helper?style=for-the-badge&color=012929&labelColor=023B3B&logo=github&logoColor=4FD1C5" height="30" alt="GitHub stars"></a>
+    </td>
+  </tr>
+</table>
 
-👇 My repositories and contributions!
+<p align="center">
+  <img src="./assets/manifesto.svg" width="830" alt="Small tools. Clean history. Documented decisions. Every library does one thing well. Every commit explains why.">
+</p>
 
-## Building
+<p align="center">
+  <img src="./assets/header-writing.svg" width="830" alt="~/writing — notes on architecture, git and teams">
+</p>
 
-- **[String Morpher](https://github.com/SSolWEB/string-morpher)** [![GitHub stars](https://img.shields.io/github/stars/SSolWEB/string-morpher?style=flat&color=gold)](https://github.com/SSolWEB/string-morpher) - A powerful php string manipulation library designed for developers who need efficient and intuitive solutions for modifying and masking strings.
-- **[Laravel BR Helper](https://github.com/SSolWEB/laravel-br-helper)** [![GitHub stars](https://img.shields.io/github/stars/SSolWEB/laravel-br-helper?style=flat&color=gold)](https://github.com/SSolWEB/laravel-br-helper) - Laravel Br Helper é uma biblioteca para auxiliar desenvolvedores a trabalhar com dados brasileiros de forma rápida e fácil.
+- **[Agents Override: Local Harness in Heterogeneous Teams](https://viniciusvts.github.io/blog/agents-override-local-harness-in-heterogeneous-teams/)** · Oct 2026
+- **[Git Fluid Flow: A Branching Strategy for Decoupled Task Promotion](https://viniciusvts.github.io/blog/git-fluid-flow-branching-strategy/)** · Jun 2026
+- **[How I responded to a Supply Chain attack before it hit my project](https://viniciusvts.github.io/blog/reaction-to-the-tanstack-suply-chain-attack-cve-2026/)** · May 2026
+- **[Choosing the ideal Git branching strategy for your project](https://viniciusvts.github.io/blog/branching-strategy-to-your-project/)** · May 2025
 
-## Contributing to
+→ [All posts](https://viniciusvts.github.io/blog/) (in English and Portuguese)
 
-- **[Bootstrap](https://github.com/twbs/bootstrap)** [![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap?style=flat&color=gold)](https://github.com/twbs/bootstrap) - Fixed blockquote styling mismatch.
+<p align="center">
+  <img src="./assets/header-contrib.svg" width="830" alt="~/contrib — upstream contributions">
+</p>
 
-- **[MDN](https://github.com/mdn/translated-content)** [![GitHub stars](https://img.shields.io/github/stars/mdn/translated-content?style=flat&color=gold)](https://github.com/mdn/translated-content) - Maintenance and removal of dead links across ES, FR, PT-BR, and ZH locales.
+- **[twbs/bootstrap](https://github.com/twbs/bootstrap)**: fixed a blockquote styling mismatch.
+- **[mdn/translated-content](https://github.com/mdn/translated-content)**: removed dead links across the ES, FR, PT-BR and ZH locales.
+- **[laravel/spark-next-docs](https://github.com/laravel/spark-next-docs)**: improved the legal and compliance sections.
 
-- **[Laravel Spark](https://github.com/laravel/spark-next-docs)** [![GitHub stars](https://img.shields.io/github/stars/laravel/spark-next-docs?style=flat&color=gold)](https://github.com/laravel/spark-next-docs) - Improved legal and compliance sections.
+<p align="center">
+  <img src="./assets/header-stack.svg" width="830" alt="~/stack — daily tools">
+</p>
+
+<p align="center">
+  <img src="./assets/stack.svg" width="830" alt="Backend: PHP, Laravel, Node.js. Frontend: Vue.js, JavaScript, HTML, CSS, Sass. Data: PostgreSQL, MySQL, MariaDB, Oracle. DevOps: Git, GitHub Actions, Jenkins, Linux, NGINX.">
+</p>
+
+<p align="center">
+  <img src="./assets/header-links.svg" width="830" alt="~/links — find me">
+</p>
+
+<p align="center">
+  <a href="https://viniciusvts.github.io/"><img src="https://img.shields.io/badge/Blog-viniciusvts.github.io-012929?style=for-the-badge&labelColor=023B3B&logo=jekyll&logoColor=4FD1C5" height="30" alt="Blog"></a>
+  <a href="https://linkedin.com/in/viniciusvts"><img src="https://img.shields.io/badge/LinkedIn-viniciusvts-012929?style=for-the-badge&labelColor=023B3B&logo=linkedin&logoColor=4FD1C5" height="30" alt="LinkedIn"></a>
+</p>

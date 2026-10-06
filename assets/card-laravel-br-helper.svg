@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="206" viewBox="0 0 408 206" role="img" aria-labelledby="title desc">
+  <title id="title">Laravel BR Helper</title>
+  <desc id="desc">Laravel casts and validation rules for Brazilian data such as CPF, CNPJ and phone numbers. Install with composer require ssolweb/laravel-br-helper.</desc>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p { fill: #4FD1C5; }
+    .c { fill: #E3F1EF; }
+    .mu { fill: #7FB5AE; }
+  </style>
+
+  <rect x="1" y="1" width="406" height="204" rx="12" fill="#012929" stroke="#0B5555" stroke-width="2"/>
+
+  <text x="24" y="46" class="m c" font-size="22" font-weight="700">Laravel BR Helper</text>
+  <text x="24" y="68" class="m mu" font-size="13">ssolweb/laravel-br-helper</text>
+
+  <rect x="318" y="26" width="66" height="24" rx="12" fill="none" stroke="#4FD1C5" stroke-width="1.5"/>
+  <text x="351" y="42" text-anchor="middle" class="m p" font-size="12" font-weight="700">BR</text>
+
+  <text x="24" y="102" class="m c" font-size="14">Laravel casts &amp; validation for</text>
+  <text x="24" y="122" class="m c" font-size="14">Brazilian data: CPF, CNPJ, phone.</text>
+
+  <rect x="20" y="146" width="368" height="40" rx="6" fill="#023B3B"/>
+  <text x="34" y="171" class="m" font-size="12.5"><tspan class="p">$</tspan><tspan class="c"> composer require ssolweb/laravel-br-helper</tspan></text>
+</svg>

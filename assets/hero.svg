@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="250" viewBox="0 0 830 250" role="img" aria-labelledby="title desc">
+  <title id="title">Vinicius de Santana</title>
+  <desc id="desc">Software Architect, Full Stack Developer and Open Source Contributor. Working with PHP, Laravel and Vue since 2016.</desc>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p { fill: #4FD1C5; }
+    .c { fill: #E3F1EF; }
+    .mu { fill: #7FB5AE; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="828" height="248" rx="12" fill="#012929" stroke="#0B5555" stroke-width="2"/>
+  <path d="M13 1 H817 A12 12 0 0 1 829 13 V37 H1 V13 A12 12 0 0 1 13 1 Z" fill="#023B3B"/>
+  <circle cx="24" cy="19" r="6" fill="#0B5555"/>
+  <circle cx="44" cy="19" r="6" fill="#0B5555"/>
+  <circle cx="64" cy="19" r="6" fill="#0B5555"/>
+  <text x="415" y="24" text-anchor="middle" class="m mu" font-size="13">vinicius@santana: ~</text>
+
+  <text x="32" y="76" class="m" font-size="16"><tspan class="p">$</tspan><tspan class="c"> whoami</tspan></text>
+  <text x="32" y="110" class="m c" font-size="28" font-weight="700">Vinicius de Santana</text>
+  <text x="32" y="138" class="m mu" font-size="15">Software Architect · Full Stack Developer · Open Source Contributor</text>
+
+  <text x="32" y="178" class="m" font-size="16"><tspan class="p">$</tspan><tspan class="c"> cat ~/focus</tspan></text>
+  <text x="32" y="204" class="m c" font-size="15">PHP · Laravel · Vue · Git workflows · shipping since 2016</text>
+
+  <text x="32" y="232" class="m p" font-size="16">$</text>
+  <rect class="cur" x="48" y="219" width="10" height="17" fill="#4FD1C5"/>
+</svg>
